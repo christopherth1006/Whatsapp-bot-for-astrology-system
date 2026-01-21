@@ -2,9 +2,9 @@
 
 A Node.js backend system for automating astrology services via WhatsApp, integrating with WhatsApp Cloud API, Google Geocoding API, and Prokerala Astrology API.
 
-|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](./lessons/sketchnotes/ai-overview.png)|
-|:---:|
-| AI For Beginners - _Sketchnote by [@girlie_mac](https://twitter.com/girlie_mac)_ |
+<a href="https://vedictarika.com/" target="_blank">
+  <img src="utils/screenshot-website.png" alt="Tembo Logo" width="1920" height="1080"/>
+</a>
 
 ## Features
 
