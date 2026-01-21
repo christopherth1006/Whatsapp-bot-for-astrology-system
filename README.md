@@ -2,6 +2,10 @@
 
 A Node.js backend system for automating astrology services via WhatsApp, integrating with WhatsApp Cloud API, Google Geocoding API, and Prokerala Astrology API.
 
+|![Sketchnote by @girlie_mac https://twitter.com/girlie_mac](./lessons/sketchnotes/ai-overview.png)|
+|:---:|
+| AI For Beginners - _Sketchnote by [@girlie_mac](https://twitter.com/girlie_mac)_ |
+
 ## Features
 
 - **WhatsApp Integration**: Receive and send messages via WhatsApp Cloud API
